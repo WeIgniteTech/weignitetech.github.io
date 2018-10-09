@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Overview</title>
+      <title>Program overview</title>
       <link>/docs/program-overview/</link>
       <pubDate>Mon, 08 Oct 2018 22:22:57 +0200</pubDate>
       
       <guid>/docs/program-overview/</guid>
-      <description></description>
+      <description>Kick off! The program starts with a particuliar session as known as kick-off. The kick-off will be an event in itself. The practical details of your venue and attendees will be available here During this session we will set up your developper&amp;rsquo;s environment or check it out if you already finished with it (ref install your dev environment)
+We will present all the tools we will use to work together on site and online</description>
     </item>
     
     <item>
@@ -26,11 +27,12 @@
       <pubDate>Mon, 08 Oct 2018 22:29:09 +0200</pubDate>
       
       <guid>/docs/getting-ready/</guid>
-      <description></description>
+      <description>Some reading Hi there and welcome to kube - my two theme for the static site generator hugo. kube is open source and can be found on kube. This article is just a demo post and shows you the style of common used elements.
+Bear claw danish chocolate lollipop soufflé jelly. Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar cheesecake. Sugar plum bonbon bonbon lemon drops gummies.</description>
     </item>
     
     <item>
-      <title>Technical</title>
+      <title>Install</title>
       <link>/docs/dev-env-install/</link>
       <pubDate>Mon, 08 Oct 2018 22:36:58 +0200</pubDate>
       
@@ -62,7 +64,8 @@
       <pubDate>Mon, 08 Oct 2018 22:43:21 +0200</pubDate>
       
       <guid>/blog/wit-program-kick-off/</guid>
-      <description></description>
+      <description>Wednesday 31 october at 18:00 Now the date is setup and &amp;hellip;
+What will happen this day? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
     <item>

@@ -6,9 +6,28 @@
     <description>Recent content in Tags on We Ignite Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 08 Oct 2018 22:43:21 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Course</title>
+      <link>/tags/course/</link>
+      <pubDate>Mon, 08 Oct 2018 22:43:21 +0200</pubDate>
+      
+      <guid>/tags/course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meeting</title>
+      <link>/tags/meeting/</link>
+      <pubDate>Mon, 08 Oct 2018 22:43:21 +0200</pubDate>
+      
+      <guid>/tags/meeting/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
