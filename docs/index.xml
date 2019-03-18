@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on We Ignite Tech</title>
+    <link>/docs/</link>
+    <description>Recent content in Docs on We Ignite Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Oct 2018 22:22:57 +0200</lastBuildDate>
+    
+	<atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Program overview</title>
+      <link>/docs/program-overview/</link>
+      <pubDate>Mon, 08 Oct 2018 22:22:57 +0200</pubDate>
+      
+      <guid>/docs/program-overview/</guid>
+      <description>Kick off! The program starts with a particuliar session as known as kick-off. The kick-off will be an event in itself. The practical details of your venue and attendees will be available here During this session we will set up your developper&amp;rsquo;s environment or check it out if you already finished with it (ref install your dev environment)
+We will present all the tools we will use to work together on site and online</description>
+    </item>
+    
+    <item>
+      <title>Getting ready</title>
+      <link>/docs/getting-ready/</link>
+      <pubDate>Mon, 08 Oct 2018 22:29:09 +0200</pubDate>
+      
+      <guid>/docs/getting-ready/</guid>
+      <description>Some reading Hi there and welcome to kube - my two theme for the static site generator hugo. kube is open source and can be found on kube. This article is just a demo post and shows you the style of common used elements.
+Bear claw danish chocolate lollipop soufflé jelly. Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar cheesecake. Sugar plum bonbon bonbon lemon drops gummies.</description>
+    </item>
+    
+    <item>
+      <title>Install</title>
+      <link>/docs/dev-env-install/</link>
+      <pubDate>Mon, 08 Oct 2018 22:36:58 +0200</pubDate>
+      
+      <guid>/docs/dev-env-install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New as a teacher</title>
+      <link>/docs/help-as-a-teacher/</link>
+      <pubDate>Mon, 08 Oct 2018 22:31:09 +0200</pubDate>
+      
+      <guid>/docs/help-as-a-teacher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New as a tech-coach</title>
+      <link>/docs/help-as-a-tech-coach/</link>
+      <pubDate>Mon, 08 Oct 2018 22:34:41 +0200</pubDate>
+      
+      <guid>/docs/help-as-a-tech-coach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
