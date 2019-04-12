@@ -50,6 +50,39 @@ $(document).ready(function(){
         }
     );
 
+    $("#email-form").validate({
+        rules: {
+            epost: {
+                required: true,
+                email: true
+            }
+        },
+        messages: {
+            epost: "Please enter a valid email address"
+        },
+        submitHandler: function(form) {
+            $(form).ajaxSubmit({
+                type:"POST",
+                data: $(form).serialize(),
+                url:"https://mailthis.to/heiweignitetech",
+                success: function() {
+                    $('#email-form :input').attr('disabled', 'disabled');
+                    $('#email-form').fadeTo( "slow", 0.15, function() {
+                        $(this).find(':input').attr('disabled', 'disabled');
+                        $(this).find('label').css('cursor','default');
+                        $('#success').fadeIn();
+                    });
+                    window.location.href = "https://mailthis.to/confirm";
+                },
+                error: function() {
+                    $('#email-form').fadeTo( "slow", 0.15, function() {
+                        $('#error').fadeIn();
+                    });
+                }
+            });
+        }
+    });
+
     //contact form validation
     $("#contact-form").validate({
         rules: {
@@ -81,7 +114,7 @@ $(document).ready(function(){
             $(form).ajaxSubmit({
                 type:"POST",
                 data: $(form).serialize(),
-                url:"mail.php",
+                url:"https://mailthis.to/heiweignitetech",
                 success: function() {
                     $('#contact-form :input').attr('disabled', 'disabled');
                     $('#contact-form').fadeTo( "slow", 0.15, function() {
@@ -89,6 +122,7 @@ $(document).ready(function(){
                         $(this).find('label').css('cursor','default');
                         $('#success').fadeIn();
                     });
+                    window.location.href = "https://mailthis.to/confirm";
                 },
                 error: function() {
                     $('#contact-form').fadeTo( "slow", 0.15, function() {
