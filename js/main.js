@@ -27,6 +27,7 @@ $(document).ready(function(){
         $(".navigation").removeClass("animated");
     }});
     
+    /*  Countdown deactivated
     $year = $('#countdown_dashboard').data('year');
     $month = $('#countdown_dashboard').data('month');
     $day = $('#countdown_dashboard').data('day');
@@ -40,7 +41,7 @@ $(document).ready(function(){
             'sec':      59,
         },
         omitWeeks: true
-    });
+    });*/
 
     $(".about-slider").owlCarousel(
         {
