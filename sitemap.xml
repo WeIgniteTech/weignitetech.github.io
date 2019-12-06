@@ -3,7 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://weignitetech.github.io/author/john-doe/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/blog/are-you-doing-the-right-way/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/author/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/blog/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/author/somrat/</loc>
+    <lastmod>2018-09-12T14:39:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/blog/simple-post-title/</loc>
+    <lastmod>2018-09-12T14:39:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/author/jamica-jock/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/blog/simple-image-post/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://weignitetech.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/tags/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/blog/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/tags/hugo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/tags/programming/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/categories/starting/</loc>
   </url>
   
   <url>
@@ -11,7 +76,11 @@
   </url>
   
   <url>
-    <loc>https://weignitetech.github.io/</loc>
+    <loc>https://weignitetech.github.io/tags/theme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weignitetech.github.io/author/themefisher/</loc>
   </url>
   
 </urlset>
